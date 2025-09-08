@@ -1,0 +1,29 @@
+# Java compiled class files
+*.class
+
+# Compiled output directory
+bin/
+
+# Package archives
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# VS Code project files
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
